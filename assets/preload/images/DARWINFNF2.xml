@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DARWINFNF2.png">
+<SubTexture name="DARWINBUILD instance 0000" x="760" y="0" width="366" height="494" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498" />
+<SubTexture name="DARWINBUILD instance 0001" x="760" y="0" width="366" height="494" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498" />
+<SubTexture name="DARWINBUILD instance 0002" x="760" y="0" width="366" height="494" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498" />
+<SubTexture name="DARWINBUILD instance 0003" x="760" y="0" width="366" height="494" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498" />
+<SubTexture name="DARWINDOWN instance 0000" x="366" y="506" width="681" height="358" frameX="-17" frameY="-1" frameWidth="716" frameHeight="368" />
+<SubTexture name="DARWINDOWN instance 0001" x="366" y="506" width="681" height="358" frameX="-17" frameY="-1" frameWidth="716" frameHeight="368" />
+<SubTexture name="DARWINDOWN instance 0002" x="366" y="506" width="681" height="358" frameX="-17" frameY="-1" frameWidth="716" frameHeight="368" />
+<SubTexture name="DARWINDOWN instance 0003" x="366" y="506" width="681" height="358" frameX="-17" frameY="-1" frameWidth="716" frameHeight="368" />
+<SubTexture name="DARWINLEFT instance 0000" x="0" y="0" width="380" height="506" frameX="-13" frameY="-2" frameWidth="395" frameHeight="508" />
+<SubTexture name="DARWINLEFT instance 0001" x="0" y="0" width="380" height="506" frameX="-13" frameY="-2" frameWidth="395" frameHeight="508" />
+<SubTexture name="DARWINLEFT instance 0002" x="0" y="0" width="380" height="506" frameX="-13" frameY="-2" frameWidth="395" frameHeight="508" />
+<SubTexture name="DARWINLEFT instance 0003" x="0" y="0" width="380" height="506" frameX="-13" frameY="-2" frameWidth="395" frameHeight="508" />
+<SubTexture name="DARWINRIGHT instance 0000" x="380" y="0" width="380" height="505" frameX="0" frameY="0" frameWidth="404" frameHeight="506" />
+<SubTexture name="DARWINRIGHT instance 0001" x="380" y="0" width="380" height="505" frameX="0" frameY="0" frameWidth="404" frameHeight="506" />
+<SubTexture name="DARWINRIGHT instance 0002" x="380" y="0" width="380" height="505" frameX="0" frameY="0" frameWidth="404" frameHeight="506" />
+<SubTexture name="DARWINRIGHT instance 0003" x="380" y="0" width="380" height="505" frameX="0" frameY="0" frameWidth="404" frameHeight="506" />
+<SubTexture name="DARWINUP instance 0000" x="0" y="506" width="366" height="489" frameX="0" frameY="-15" frameWidth="380" frameHeight="505" />
+<SubTexture name="DARWINUP instance 0001" x="0" y="506" width="366" height="489" frameX="0" frameY="-15" frameWidth="380" frameHeight="505" />
+<SubTexture name="DARWINUP instance 0002" x="0" y="506" width="366" height="489" frameX="0" frameY="-15" frameWidth="380" frameHeight="505" />
+<SubTexture name="DARWINUP instance 0003" x="0" y="506" width="366" height="489" frameX="0" frameY="-15" frameWidth="380" frameHeight="505" />
+</TextureAtlas>

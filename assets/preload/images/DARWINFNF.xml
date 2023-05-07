@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DARWINFNF.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DARWINBUILD instance 10000" x="19" y="19" width="369" height="464" frameX="-8" frameY="-34" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10001" x="488" y="19" width="369" height="463" frameX="-9" frameY="-35" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10002" x="957" y="19" width="370" height="461" frameX="-9" frameY="-37" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10003" x="1427" y="19" width="369" height="463" frameX="-9" frameY="-35" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10004" x="19" y="583" width="368" height="472" frameX="-7" frameY="-26" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10005" x="487" y="583" width="367" height="488" frameX="-3" frameY="-10" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10006" x="954" y="583" width="366" height="496" frameX="-1" frameY="-2" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10007" x="1420" y="583" width="367" height="498" frameX="0" frameY="0" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10008" x="954" y="583" width="366" height="496" frameX="-1" frameY="-2" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10009" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10010" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10011" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10012" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10013" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+	<SubTexture name="DARWINBUILD instance 10014" x="19" y="1181" width="367" height="495" frameX="-1" frameY="-3" frameWidth="379" frameHeight="498"/>
+</TextureAtlas>
